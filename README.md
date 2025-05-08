@@ -22,7 +22,7 @@ pip install tensorflow opencv-python scikit-learn matplotlib jupyter
 
 ## Dataset
 
-| ![Corn_Blight_Sample](Corn_Blight.joeg) | ![Corn_Common_Rust_Sample](Corn_Common_Rust.jpeg) | ![Corn_Gray_Spot_Sample](Corn_Gray_Spot.jpeg) | ![Corn_Heathly_Sample](Corn_Health.jpeg) |
+| ![Corn_Blight_Sample](Corn_Blight.joeg) | ![Corn_Common_Rust_Sample](Corn_Common_Rust.jpg) | ![Corn_Gray_Spot_Sample](Corn_Gray_Spot.jpg) | ![Corn_Heathly_Sample](Corn_Health.jpg) |
 |--|--|--|--|
 | *(Corn Leaf Blight Sample)* | *(Corn Leaf Common Rust Sample)* | *(Corn Leaf Gray Spot Sample)* | *(Corn Leaf Heathly Sample)* |
 
@@ -54,12 +54,12 @@ The custom Convolutional Neural Network (CNN) model was trained using the follow
 * **Callbacks:** ReduceLROnPlateau
 
 [If you have an image of the model architecture, you can include it here:]
-![Model Architecture](Pneumonia_CNN_Model.jpeg)
+![Model Architecture](Pneumonia_CNN_Model.jpg)
 *(Model Architecture)*
 
 The training and validation performance over the epochs can be visualized in the following curve:
 
-![Training and Validation Curve](Training_Validation_Curve.jpeg)
+![Training and Validation Curve](Training_Validation_Curve.jpg)
 *(Training and Validation Curve)*
 
 This curve illustrates the training and validation accuracy and loss as the training progressed.
