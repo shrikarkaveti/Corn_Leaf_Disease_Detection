@@ -22,7 +22,7 @@ pip install tensorflow opencv-python scikit-learn matplotlib jupyter
 
 ## Dataset
 
-| ![Corn_Blight_Sample](Corn_Blight.joeg) | ![Corn_Common_Rust_Sample](Corn_Common_Rust.jpg) | ![Corn_Gray_Spot_Sample](Corn_Gray_Spot.jpg) | ![Corn_Heathly_Sample](Corn_Health.jpg) |
+| ![Corn_Blight_Sample](Corn_Blight.jpg) | ![Corn_Common_Rust_Sample](Corn_Common_Rust.jpg) | ![Corn_Gray_Spot_Sample](Corn_Gray_Spot.jpg) | ![Corn_Heathly_Sample](Corn_Health.JPG) |
 |--|--|--|--|
 | *(Corn Leaf Blight Sample)* | *(Corn Leaf Common Rust Sample)* | *(Corn Leaf Gray Spot Sample)* | *(Corn Leaf Heathly Sample)* |
 
