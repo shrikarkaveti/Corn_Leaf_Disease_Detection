@@ -59,7 +59,7 @@ The custom Convolutional Neural Network (CNN) model was trained using the follow
 
 The training and validation performance over the epochs can be visualized in the following curve:
 
-![Training and Validation Curve](Training_Validation_Curve.png)
+![Training and Validation Curve](Train_Val_Curve.png)
 *(Training and Validation Curve)*
 
 This curve illustrates the training and validation accuracy and loss as the training progressed.
