@@ -27,7 +27,7 @@ pip install tensorflow opencv-python scikit-learn matplotlib jupyter
 | *(Corn Leaf Blight Sample)* | *(Corn Leaf Common Rust Sample)* | *(Corn Leaf Gray Spot Sample)* | *(Corn Leaf Heathly Sample)* |
 
 
-This project utilized a dataset of 2400 corn leaf images from the Kaggle Corn Leaf Disease Datset (Derived from Plant Docs Dataset), available on Kaggle: ![Corn_Leaf_Disease_Dataset](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset).
+This project utilized a dataset of 2400 corn leaf images from the Kaggle Corn Leaf Disease Datset (Derived from Plant Docs Dataset), available on Kaggle: [Corn_Leaf_Disease_Dataset](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset).
 
 The dataset is balanced, containing an equal number of all category samples (300 of each). Data augmentation was performed using TensorFlow's `ImageDataGenerator` to enhance the training process and improve the model's generalization.
 
